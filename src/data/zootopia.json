@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Judy's Childhood Dream",
+        "dialogues": [
+            {
+                "character": "Judy",
+                "english": "I'm going to be a police officer!",
+                "korean": "난 경찰관이 될 거예요!",
+                "explanation": "'be a [직업]'은 꿈이나 목표를 말할 때 씁니다.",
+                "key_expression": "be a police officer"
+            },
+            {
+                "character": "Stu",
+                "english": "It's okay to have dreams, but you should have a backup plan.",
+                "korean": "꿈을 갖는 건 좋지만, 차선책도 있어야 해.",
+                "explanation": "backup plan은 일이 안 풀릴 때를 대비한 '두 번째 계획'을 뜻합니다.",
+                "key_expression": "backup plan"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Arrival in Zootopia",
+        "dialogues": [
+            {
+                "character": "Judy",
+                "english": "Try everything!",
+                "korean": "전부 다 시도해 봐!",
+                "explanation": "주토피아의 주제곡 제목이기도 하죠. 무엇이든 도전하라는 뜻입니다.",
+                "key_expression": "Try everything"
+            },
+            {
+                "character": "Judy",
+                "english": "I'm not just some token bunny.",
+                "korean": "전 그냥 구색 맞추기용 토끼가 아니에요.",
+                "explanation": "token은 상징이나 형식을 갖추기 위한 존재를 뜻할 때 쓰입니다.",
+                "key_expression": "Token bunny"
+            }
+        ]
+    }
+]
