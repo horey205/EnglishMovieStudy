@@ -1,108 +1,300 @@
 [
     {
         "id": 1,
-        "title": "Andy's Room - Opening",
+        "title": "Day 1: Andy's Room - The King of the Bed",
         "dialogues": [
             {
                 "character": "Andy",
                 "english": "Alright, everyone, back to your places!",
-                "korean": "자, 모두 제자리로 돌아가!",
-                "explanation": "원래 있던 장소로 지시할 때 'back to your places'라고 합니다.",
-                "key_expression": "back to your places"
+                "korean": "자, 모두 제자리로!",
+                "explanation": "제자리로 돌아가라는 표준적인 표현입니다.",
+                "key_expression": "Back to your places",
+                "words": [
+                    {
+                        "word": "Place",
+                        "mean": "장소, 자리"
+                    }
+                ]
             },
             {
                 "character": "Andy",
-                "english": "Wow, look at that! A birthday party!",
-                "korean": "와, 저것 봐! 생일 파티야!",
-                "explanation": "감탄을 섞어 무언가를 보라고 할 때 'Look at that'을 씁니다.",
-                "key_expression": "Look at that"
-            },
-            {
-                "character": "Woody",
-                "english": "Reach for the sky!",
-                "korean": "손 들어!",
-                "explanation": "카우보이나 보안관이 쓰는 관용어구로 항복의 뜻입니다.",
-                "key_expression": "Reach for the sky"
+                "english": "You're my favorite deputy!",
+                "korean": "넌 내가 제일 좋아하는 부관이야!",
+                "explanation": "favorite은 '가장 좋아하는'이라는 뜻으로 정말 많이 쓰입니다.",
+                "key_expression": "Favorite deputy",
+                "words": [
+                    {
+                        "word": "Favorite",
+                        "mean": "가장 좋아하는"
+                    }
+                ]
             }
         ]
     },
     {
         "id": 2,
-        "title": "The Recon Mission",
+        "title": "Day 2: The Birthday Surprise",
         "dialogues": [
             {
-                "character": "Sarge",
-                "english": "Code Red! Code Red! Birthday party in progress!",
-                "korean": "비상 상황! 비상 상황! 생일 파티가 진행 중이다!",
-                "explanation": "'in progress'는 어떤 일이 진행 중임을 나타내는 아주 유용한 표현입니다.",
-                "key_expression": "in progress"
+                "character": "Woody",
+                "english": "Staff meeting, everybody! Come on!",
+                "korean": "직원 회의다, 여러분! 어서 모여!",
+                "explanation": "모임을 소집할 때 쓰는 표현입니다.",
+                "key_expression": "Staff meeting",
+                "words": [
+                    {
+                        "word": "Meeting",
+                        "mean": "회의, 만남"
+                    }
+                ]
             },
             {
-                "character": "Sarge",
-                "english": "Mayday! Mayday! Come in, Mother Bird.",
-                "korean": "조난 신호! 조난 신호! 응답하라, 본부.",
-                "explanation": "통신 시 위급 상황임을 알리는 국제적인 표현입니다.",
-                "key_expression": "Mayday"
+                "character": "Rex",
+                "english": "I'm so nervous. What if he gets a new dinosaur?",
+                "korean": "나 너무 긴장돼. 새 공룡을 받으면 어떡하지?",
+                "explanation": "걱정할 때 쓰는 'What if' 패턴입니다.",
+                "key_expression": "What if",
+                "words": [
+                    {
+                        "word": "Nervous",
+                        "mean": "긴장된"
+                    }
+                ]
             }
         ]
     },
     {
         "id": 3,
-        "title": "Meeting Buzz",
+        "title": "Day 3: Buzz Lightyear Arrives",
         "dialogues": [
             {
                 "character": "Buzz",
                 "english": "To infinity and beyond!",
                 "korean": "무한한 공간, 저 너머로!",
-                "explanation": "버즈의 시그니처 대사로, 한계를 넘어서라는 의미입니다.",
-                "key_expression": "To infinity and beyond"
+                "explanation": "한계를 넘어서자는 상징적인 대사입니다.",
+                "key_expression": "Inifinity",
+                "words": [
+                    {
+                        "word": "Infinity",
+                        "mean": "무한함"
+                    }
+                ]
             },
             {
                 "character": "Woody",
                 "english": "You are a toy! You aren't the real Buzz Lightyear!",
-                "korean": "넌 장난감이라고! 진짜 버즈 라이트이어가 아니야!",
-                "explanation": "상대방의 정체성을 부정하며 현실을 깨우쳐줄 때 씁니다.",
-                "key_expression": "You are a toy"
+                "korean": "넌 장난감일 뿐이야! 진짜 버즈가 아니라고!",
+                "explanation": "상대방의 정체성을 일깨워주는 대사입니다.",
+                "key_expression": "Real",
+                "words": [
+                    {
+                        "word": "Real",
+                        "mean": "진짜의"
+                    }
+                ]
             }
         ]
     },
     {
         "id": 4,
-        "title": "The Pizza Planet Trip",
+        "title": "Day 4: Falling with Style",
         "dialogues": [
             {
-                "character": "Andy",
-                "english": "Can I bring Woody?",
-                "korean": "우디 데려가도 돼요?",
-                "explanation": "bring은 누군가를 데려오거나 물건을 가져올 때 씁니다.",
-                "key_expression": "Can I bring"
-            },
-            {
-                "character": "Mom",
-                "english": "You can only bring one toy.",
-                "korean": "장난감은 하나만 가져갈 수 있어.",
-                "explanation": "'only'는 오직 하나뿐임을 강조할 때 씁니다.",
-                "key_expression": "Only one"
+                "character": "Woody",
+                "english": "That wasn't flying! That was falling with style.",
+                "korean": "그건 비행이 아니었어! 멋지게 추락한 거지.",
+                "explanation": "비꼬는 유머 섞인 표현입니다.",
+                "key_expression": "Falling with style",
+                "words": [
+                    {
+                        "word": "Style",
+                        "mean": "스타일, 방식"
+                    }
+                ]
             }
         ]
     },
     {
         "id": 5,
-        "title": "Trapped in Sid's Room",
+        "title": "Day 5: Lost at the Gas Station",
         "dialogues": [
             {
                 "character": "Woody",
-                "english": "We are in Sid's house! We're gonna be blown up!",
-                "korean": "우린 시드네 집에 있다고! 우린 폭발하고 말 거야!",
-                "explanation": "'be blown up'은 폭파되거나 터지는 상황을 말합니다.",
-                "key_expression": "Blown up"
+                "english": "I am a lost toy!",
+                "korean": "난 길 잃은 장난감이라구!",
+                "explanation": "lost는 길을 잃었을 때 쓰는 형용사입니다.",
+                "key_expression": "Lost toy",
+                "words": [
+                    {
+                        "word": "Lost",
+                        "mean": "길을 잃은"
+                    }
+                ]
             },
             {
                 "character": "Buzz",
-                "english": "I'm just a toy. A little, stupid, insignificant toy.",
-                "korean": "난 그냥 장난감일 뿐이야. 작고 멍청하고 하찮은 장난감.",
-                "explanation": "insignificant는 중요하지 않거나 하찮은 것을 뜻합니다.",
-                "key_expression": "insignificant"
+                "english": "The local sheriff has arrived.",
+                "korean": "현지 보안관이 도착했군.",
+                "explanation": "자신을 소개하거나 상황을 파악할 때 씁니다.",
+                "key_expression": "Sheriff",
+                "words": [
+                    {
+                        "word": "Sheriff",
+                        "mean": "보안관"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Day 6: Pizza Planet - The Claw",
+        "dialogues": [
+            {
+                "character": "Aliens",
+                "english": "The Claw! It moves!",
+                "korean": "갈고리님이다! 움직여!",
+                "explanation": "경외감을 표현하는 명대사입니다.",
+                "key_expression": "The Claw",
+                "words": [
+                    {
+                        "word": "Move",
+                        "mean": "움직이다"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Day 7: Sid's House of Terror",
+        "dialogues": [
+            {
+                "character": "Woody",
+                "english": "We are in Sid's house!",
+                "korean": "우린 시드네 집에 있어!",
+                "explanation": "위험한 장소임을 알리는 대사입니다.",
+                "key_expression": "Sid's house",
+                "words": [
+                    {
+                        "word": "House",
+                        "mean": "집"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Day 8: Mrs. Nesbitt",
+        "dialogues": [
+            {
+                "character": "Buzz",
+                "english": "One minute you're defending the whole galaxy, and then... Tea?",
+                "korean": "방금 전까지 은하계를 지키다가... 이제 차를 마신다고?",
+                "explanation": "허탈한 상황을 묘사할 때 유용합니다.",
+                "key_expression": "Defending",
+                "words": [
+                    {
+                        "word": "Galaxy",
+                        "mean": "은하계"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Day 9: The Plan to Escape",
+        "dialogues": [
+            {
+                "character": "Woody",
+                "english": "We have to get out of here.",
+                "korean": "우린 여기서 나가야 해.",
+                "explanation": "탈출이나 퇴장을 말할 때 쓰는 'get out of'입니다.",
+                "key_expression": "Get out of",
+                "words": [
+                    {
+                        "word": "Escape",
+                        "mean": "탈출"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Day 10: Play Nice!",
+        "dialogues": [
+            {
+                "character": "Woody",
+                "english": "We toys can see everything! So play nice!",
+                "korean": "장난감들은 다 보고 있다구! 그러니 착하게 굴어!",
+                "explanation": "경고할 때 쓰는 강렬한 대사입니다.",
+                "key_expression": "Play nice",
+                "words": [
+                    {
+                        "word": "Nice",
+                        "mean": "착한, 좋은"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Day 11: The Moving Truck Chase",
+        "dialogues": [
+            {
+                "character": "Buzz",
+                "english": "Woody! Behind you!",
+                "korean": "우디! 네 뒤를 봐!",
+                "explanation": "위험을 알릴 때 쓰는 긴박한 표현입니다.",
+                "key_expression": "Behind you",
+                "words": [
+                    {
+                        "word": "Behind",
+                        "mean": "뒤에"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Day 12: Flying for Real",
+        "dialogues": [
+            {
+                "character": "Woody",
+                "english": "Buzz, you're flying!",
+                "korean": "버즈, 네가 날고 있어!",
+                "explanation": "놀라운 변화를 목격했을 때의 감탄사입니다.",
+                "key_expression": "Flying",
+                "words": [
+                    {
+                        "word": "Fly",
+                        "mean": "날다"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Day 13: To Infinity and Beyond (Finale)",
+        "dialogues": [
+            {
+                "character": "Andy",
+                "english": "You're still my favorite deputy.",
+                "korean": "넌 여전히 내가 제일 좋아하는 부관이야.",
+                "explanation": "변치 않는 애정을 확인하는 대사입니다.",
+                "key_expression": "Still",
+                "words": [
+                    {
+                        "word": "Still",
+                        "mean": "여전히"
+                    }
+                ]
             }
         ]
     }
